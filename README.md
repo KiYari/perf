@@ -1,6 +1,6 @@
 А - Ким Артур;
-П - Кирилл Пиписькин;
-Д - Дмитрий Ташкинов;
+P - Кирилл Пиписькин;
+D - Дмитрий Ташкинов;
 ###########################################################################################################
 1. Theme - A BETTER COMPUTER CHIP
 2. PRE - TEXT
@@ -15,4 +15,16 @@ Another highlight for Stephen is the community feel of ARCNL. The institute has 
 
 Extreme ultraviolet lithography, Stephen’s research area, is the most promising new technology for computer chipmaking. By combining fundamental physics with inspiration from industry, he and his ARCNL colleagues are pushing boundaries and contributing to the development of smaller and smarter electronics. 
 ###########################################################################################################
-
+3. Plan
+a) Greetings
+b) Theme introduction
+c) Meeting points
+d) Argument
+e) Conclusion
+###########################################################################################################
+4. Scene&roles&role names
+Scene: Online meeting about new company policies to improve productivity
+Roles: 
+D(Joseppe Fedrochelle) - PR manager(ходит и кричит что не работет)
+P(Mattia Benotto) - P staff member(Quality)
+A(Perdo Cambini) - A staff member(Size)
