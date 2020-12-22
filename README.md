@@ -21,7 +21,7 @@ b) Theme introduction
 c) Meeting points
 d) Argument
 e) Conclusion
-########################################################################################
+###########################################################################################################
 4. Scene&roles&role names
 Italian mafia boss invites japanese technical specialist to guide unprofitable enterprise general director. 
 Scene: Online meeting about new company policies to improve productivity
@@ -29,7 +29,7 @@ Roles:
 D(Joseppe Fedruchelle) - Don of Fedruchelle family
 P(Pedro Cambini) - P general director of Carcano Industries.
 A(Yasuhiko Asaka) - A japanese specialist.
-########################################################################################
+###########################################################################################################
 5. Plan notes
 a) D greets P and declares a problem: his company is unprofitable. In case to improve it's productivity D invites A. A introduces himself and briefly tells about new technology he is to explain.\\\
 b) P says that his company is fine and only thing he need is more time. D is displeased about P's outgiving. D tells some more information about why this technology can boost P's productivity and says P shoult at least listen to A.\\\
