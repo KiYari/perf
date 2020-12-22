@@ -1,7 +1,7 @@
 А - Ким Артур;
 P - Карим Идрисов;
 D - Дмитрий Ташкинов;
-########################################################################################
+###########################################################################################################
 1. Theme - A BETTER COMPUTER CHIP
 2. PRE - TEXT
 ########################################################################################################
@@ -14,7 +14,7 @@ Now that this technique has been shown to work in a lab setting, the next questi
 Another highlight for Stephen is the community feel of ARCNL. The institute has 75 employees in total which means you quickly get to know everyone else who works there and feel comfortable approaching other professors and group leaders. The fact that everyone works on interrelated projects adds to the community feeling. “When I hear from other international students, one of the complaints I hear is that they feel isolated in a new country and they don’t get to mingle with the local crowd. That’s not the case here. My friends are mostly from work which is great,” he adds. 
 
 Extreme ultraviolet lithography, Stephen’s research area, is the most promising new technology for computer chipmaking. By combining fundamental physics with inspiration from industry, he and his ARCNL colleagues are pushing boundaries and contributing to the development of smaller and smarter electronics. 
-########################################################################################
+###########################################################################################################
 3. Plan
 a) Greetings
 b) Theme introduction
