@@ -31,8 +31,8 @@ P(Pedro Cambini) - P general director of Carcano Industries.
 A(Yasuhiko Asaka) - A japanese specialist.
 ###########################################################################################################
 5. Plan notes
-a) D greets P and declares a problem: his company is unprofitable. In case to improve it's productivity D invites A. A introduces himself and briefly tells about new technology he is to explain.\\\
-b) P says that his company is fine and only thing he need is more time. D is displeased about P's outgiving. D tells some more information about why this technology can boost P's productivity and says P shoult at least listen to A.\\\
-c) A thanks D and tells his point of view about ultrasonic chips creation. P says his opinion. D expresses that this technology can bring money. 
-d) A and P discussion about new generation of computer chips and why we should use it.
-e) At conclusion P agrees to try new technology. A proposes his help in this. D thanks A and says some final words.
+a) D greets P and declares a problem: his company is unprofitable. In case to improve it's productivity D invites A. A introduces himself and briefly tells about new technology he is to explain.\n
+b) P says that his company is fine and only thing he need is more time. D is displeased about P's outgiving. D tells some more information about why this technology can boost P's productivity and says P shoult at least listen to A.\n
+c) A thanks D and tells his point of view about ultrasonic chips creation. P says his opinion. D expresses that this technology can bring money.\n 
+d) A and P discussion about new generation of computer chips and why we should use it.\n
+e) At conclusion P agrees to try new technology. A proposes his help in this. D thanks A and says some final words.\n
