@@ -1,5 +1,5 @@
 А - Ким Артур;
-P - Кирилл Пиписькин;
+P - Карим Идрисов;
 D - Дмитрий Ташкинов;
 ###########################################################################################################
 1. Theme - A BETTER COMPUTER CHIP
@@ -23,8 +23,12 @@ d) Argument
 e) Conclusion
 ###########################################################################################################
 4. Scene&roles&role names
+Italian mafia boss invites japanese technical specialist to guide unprofitable enterprise general director. 
 Scene: Online meeting about new company policies to improve productivity
 Roles: 
-D(Joseppe Fedrochelle) - PR manager(ходит и кричит что не работет)
-P(Mattia Benotto) - P staff member(Quality)
-A(Perdo Cambini) - A staff member(Size)
+D(Joseppe Fedruchelle) - Boss of Fedruchelle family
+P(Pedro Cambini) - P general director of Carcano Industries.
+A(Yasuhiko Asaka) - A japanese specialist.
+###########################################################################################################
+5. Plan notes
+a)
