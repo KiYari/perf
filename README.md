@@ -22,13 +22,13 @@ c) Questions
 d) Conclusion
 ########################################################################################  
 4. Scene&roles&role names  
-Interviewer(P) invites japanese specialist(A) to talk about ultrasonic chips creation.   
-Scene: Online interview about new technology that drasticly improves its productivity.  
+Interviewer(P) invites japanese specialist(A) to talk about ultrasound chips creation.   
+Scene: An interview about new technology that will drasticly improve microchips creation productivity.  
 a) D sits in his room and P in his office. Then A comes to P.  
 b) Everyone are at their own places.  
 Roles:  
 D(Joseppe Fedruchelle) - First italian head developer of ultrasonic chips. General director of Carcano Industries.
-P(Steave Watson) - P general director of Carcano Industries, thinks he is doing pretty well but unluck pursued him for 3 years straight and next year things will get better. A bit incredulous about new technology.  
+P(Steave Watson) - Interviewer on KBS TV channel.   
 A(Asa Tojo) - Second japanese specialist that already worked with ultrasonic chips creation. He have a very big expectations about this new way of creating microchips and want to spread it across the world.  
 ########################################################################################  
 5. Plan notes  
@@ -38,10 +38,10 @@ c) P asks some Questions about new technology. 2-5min
 d) At end P concludes that this can bring new era of microchips. A proposes his help if P want to know more about this technology.0.5-1 min  
 ########################################################################################    
 6. Questions  
-  1. What nanolithography is? A answers.  
-  2. How are you using ultrasound in your project? A gives a word to D.  
-  3. What about your team and other people who work with you? A answers. And you, Joseppe? D answers.   
-  4. And what about you? What do you, Asa, personally think about it? A gives his concerns.  
+  1. What nanolithography is? A answers.  0.5-1 min
+  2. How are you using ultrasound in your project? A gives a word to D. 1-1.5 min
+  3. What about your team and other people who work with you? A answers. And you, Joseppe? D answers. 0.5-1.5 min
+  4. And what about you? What do you, Asa, personally think about it? A gives his concerns. 0.5-1 min
 ########################################################################################    
 7. Text
 a) GREETINGS PART
