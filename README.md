@@ -26,7 +26,7 @@ e) Conclusion
 Italian mafia boss(D) invites japanese technical specialist(A) to help general director(P) in unprofitable enterprise managing of Carcano Industries.   
 Scene: Online meeting about new technology that could be implented into manufacture to improve its productivity.  
 a) D sits in his room and P in his office. Then A comes to P.  
-b) Everyone is at their own offices.  
+b) Everyone is at their own places.  
 Roles:  
 D(Joseppe Fedruchelle) - Don of Fedruchelle family, heard a bit about new ultrasonic chips creation and interested in it.  
 P(Pedro Cambini) - P general director of Carcano Industries, thinks he is doing pretty well but unluck pursued him for 3 years straight and next year things will get better. A bit incredulous about new technology.  
