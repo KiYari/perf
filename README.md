@@ -32,7 +32,18 @@ P(Steave Watson) - P general director of Carcano Industries, thinks he is doing 
 A(Asa Tojo) - Second japanese specialist that already worked with ultrasonic chips creation. He have a very big expectations about this new way of creating microchips and want to spread it across the world.  
 ########################################################################################  
 5. Plan notes  
-a) P greets auditory, briefly explains what we shall talk about.  
-b) P tells about new generation of microchips. Then he invites A to his room. A tells about this technology more and calls D to help him. D says some additional words and refers to Dr. Asaki work.   
-c) A thanks D and tells his point of view about ultrasonic chips creation. P says his opinion. D expresses that this technology can bring money.   
-d) At conclusion P agrees to try new technology. A proposes his help if P want to know more about this technology.
+a) P greets auditory, briefly explains what we shall talk about. 20-40 sec  
+b) P tells about new generation of microchips. Then he invites A to his room. A tells about this technology more and calls D to help him. D says some additional words and refers to Dr. Hitachi work. 1-1.5 min   
+c) P asks some Questions about new technology. 2-5min   
+d) At end P concludes that this can bring new era of microchips. A proposes his help if P want to know more about this technology.0.5-1 min  
+########################################################################################    
+6. Questions  
+  1. What nanolithography is? A answers.  
+  2. How are you using ultrasound in your project? A gives a word to D.  
+  3. What about your team and other people who work with you? A answers. And you, Joseppe? D answers.   
+  4. And what about you? What do you, Asa, personally think about it? A gives his concerns.  
+########################################################################################    
+7. Text
+a) GREETINGS PART
+P - We can run sophisticated programs on our smartphones or download an entire movie to our computers in seconds thanks to advancements in processors and memory chips. Making these tiny structures precisely right requires extreme accuracy. The new way of creation microchips will help us in such an uneasy deed.
+Today we have a Asa Tojo - japanese specialist who will tell us about new technology: 
