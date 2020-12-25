@@ -33,7 +33,7 @@ A(Asa Tojo) - Second japanese specialist that already worked with ultrasonic chi
 ########################################################################################  
 5. Plan notes  
 a) P greets auditory, briefly explains what we shall talk about. 20-40 sec  
-b) P tells about new generation of microchips. Then he invites A to his room. A tells about this technology more and calls D to help him. D says some additional words and refers to Dr. Hitachi work. 1-1.5 min   
+b) P tells about new generation of microchips. Then he invites A to his room. A tells about this technology more. 1-1.5 min   
 c) P asks some Questions about new technology. 2-5min   
 d) At end P concludes that this can bring new era of microchips. A proposes his help if P want to know more about this technology.0.5-1 min  
 ########################################################################################    
@@ -44,6 +44,31 @@ d) At end P concludes that this can bring new era of microchips. A proposes his 
   4. And what about you? What do you, Asa, personally think about it? A gives his concerns. 0.5-1 min
 ########################################################################################    
 7. Text
-a) GREETINGS PART
-P - We can run sophisticated programs on our smartphones or download an entire movie to our computers in seconds thanks to advancements in processors and memory chips. Making these tiny structures precisely right requires extreme accuracy. The new way of creation microchips will help us in such an uneasy deed.
-Today we have a Asa Tojo - japanese specialist who will tell us about new technology: 
+a) GREETINGS PART  
+  
+P - We can run sophisticated programs on our smartphones or download an entire movie to our computers in seconds thanks to advancements in processors and memory chips. Making these tiny structures precisely right requires extreme accuracy. The new way of creation microchips will help us in such an uneasy deed.  
+b)THEME INTRODUCTION   
+  
+P - Memory chips are bulk printed with layers of metal and dielectrics on silicon wafers. The smallest individual components themselves are very small, actually, they are only about 10 times bigger than DNA molecule. Today we have Asa Tojo - japanese specialist who will tell us about better computer chip.   
+A - Yes. Thanks for introduction, Steave  
+P - You are welcome, Asa. So, can you tell us some words about this new technology?  
+A - Sure. As you said, components are really tiny, in today’s chips measure between 14 and 10 nanometres on average. It is possible only thanks to our development in nanolithography sphere.  
+  
+c)QUESTIONS  
+P - Nanolithopraphy? What is it?(1)  
+A - Nanolithography is a growing field of techniques within nanotechnology dealing with the engineering like etching, writing or printing of nanometer-scale structures. We are using ultrasonic sound to make this kind of chips.  
+P - Hmm... Sounds very interesting... And futuristic! How are you using ultrasound in your project?(2)
+A - My italian colleague Joseppe Fedruchelle can tell about it more. He will communicate via computer. Dont you mind?
+P - Of course not, he can have his word.
+D - Greetings everyone! A hope you are having a nice day! So, about usage of ultrasound... The laser launches extremely high-frequency soundwaves (ultrasound) into the layers and reads out the echo. Ultrasound can travel through layers that light can’t, allowing machines to look through the usually-opaque layers and find the markers. That's how it works.
+P - Such an interesting way of using lasers! So what do you think about it personally, mister Joseppe?(4)  
+D - It’s a bit like knocking on a wall to figure out if there’s a hard object or empty space behind it. The only difference here is that instead of knocking on the wafer, we use laser light to create the sound and “listen” to it using laser light.  
+P - Well... I think it became a bit clearer for us, how it works. And a bit off topic question to end our meeting up: what about your team and other people who work with you?
+D - The institute has 75 employees in total which means you quickly get to know everyone else who works there and feel comfortable approaching other professors and group leaders.  
+P - And what about you, Asa?  
+A - I think iI feel the same as Joseppe. When I hear from other international students, one of the complaints I hear is that they feel isolated in a new country and they don’t get to mingle with the local crowd. That’s not the case here. My friends are mostly from work which is great.  
+
+d) CONCLUSION  
+P - So today we had a very interesting and intrigue interview from our dearest guests Asa Tojo and Joseppe Fedruchelle. They told us a lot about new technology and I can say without a doubt that this will bring new era of microchips.
+A - If you want, Steave, we can tell you about better computer chip more with my collegue.
+P - Sure, Asa. We will have another talk later, but for now, goodbye everyone. It was Tech with Steave show on KBS! See you all next time!
